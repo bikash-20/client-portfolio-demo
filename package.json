@@ -1,0 +1,13 @@
+{
+  "name": "client-portfolio-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static portfolio site for Monisha Kar Tithi.",
+  "scripts": {
+    "start": "python3 -m http.server 3000",
+    "dev": "python3 -m http.server 3000"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
