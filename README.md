@@ -1,3 +1,4 @@
+live demo: https://bikash-20.github.io/client-portfolio-demo/
 Core-Engine Portfolio Architecture & Fluid UI Visualizer
 An advanced, production-grade web portfolio UI built natively from architectural primitives—HTML5, Pure CSS3, and Modern ECMAScript (ES6+)—completely outside of official university coursework. Developed independently during my 2nd Year, 1st Semester to deep-dive into browser rendering mechanics, mathematical mouse parallax tracking, and fluid component lifecycle management without relying on bloated, abstraction-heavy external frameworks.
 
